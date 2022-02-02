@@ -1,0 +1,3 @@
+name: ecs-efs
+runtime: nodejs
+description: Pulumi AWS ECS with EFS example in Typescript
